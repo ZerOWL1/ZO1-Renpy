@@ -1,0 +1,92 @@
+﻿
+#///////////////////////  ATTACKER SLOT 1
+label AI_Bhv_A_S1_Chg_SkillTtc:
+    $ BS_TtcRdm = renpy.random.randint(1, 5)
+    $ A_S1_Ttc = BS_TtcRdm
+    $ A_S1_ChgTtc_Count += 1
+    return
+
+#///////////////////////  ATTACKER SLOT 2
+label AI_Bhv_A_S2_Chg_SkillTtc:
+    $ BS_TtcRdm = renpy.random.randint(1, 5)
+    $ A_S2_Ttc = BS_TtcRdm
+    $ A_S2_ChgTtc_Count += 1
+    return
+
+#///////////////////////  ATTACKER SLOT 3
+label AI_Bhv_A_S3_Chg_SkillTtc:
+    $ BS_TtcRdm = renpy.random.randint(1, 5)
+    $ A_S3_Ttc = BS_TtcRdm
+    $ A_S3_ChgTtc_Count += 1
+    return
+
+#///////////////////////  ATTACKER SLOT 4
+label AI_Bhv_A_S4_Chg_SkillTtc:
+    $ BS_TtcRdm = renpy.random.randint(1, 5)
+    $ A_S4_Ttc = BS_TtcRdm
+    $ A_S4_ChgTtc_Count += 1
+    return
+
+#///////////////////////  ATTACKER SLOT 5
+label AI_Bhv_A_S5_Chg_SkillTtc:
+    $ BS_TtcRdm = renpy.random.randint(1, 5)
+    $ A_S5_Ttc = BS_TtcRdm
+    $ A_S5_ChgTtc_Count += 1
+    return
+
+#///////////////////////  ATTACKER SLOT 6
+label AI_Bhv_A_S6_Chg_SkillTtc:
+    $ BS_TtcRdm = renpy.random.randint(1, 5)
+    $ A_S6_Ttc = BS_TtcRdm
+    $ A_S6_ChgTtc_Count += 1
+    return
+
+        
+        
+        
+
+        
+
+
+#///////////////////////  DEFFENDER SLOT 1
+label AI_Bhv_D_S1_Chg_SkillTtc:
+    $ BS_TtcRdm = renpy.random.randint(1, 5)
+    $ D_S1_Ttc = BS_TtcRdm
+    $ D_S1_ChgTtc_Count += 1
+
+    return
+
+#///////////////////////  DEFFENDER SLOT 2
+label AI_Bhv_D_S2_Chg_SkillTtc:
+    $ BS_TtcRdm = renpy.random.randint(1, 5)
+    $ D_S2_Ttc = BS_TtcRdm
+    $ D_S2_ChgTtc_Count += 1
+    return
+
+#///////////////////////  DEFFENDER SLOT 3
+label AI_Bhv_D_S3_Chg_SkillTtc:
+    $ BS_TtcRdm = renpy.random.randint(1, 5)
+    $ D_S3_Ttc = BS_TtcRdm
+    $ D_S3_ChgTtc_Count += 1
+    return
+
+#///////////////////////  DEFFENDER SLOT 4
+label AI_Bhv_D_S4_Chg_SkillTtc:
+    $ BS_TtcRdm = renpy.random.randint(1, 5)
+    $ D_S4_Ttc = BS_TtcRdm
+    $ D_S4_ChgTtc_Count += 1
+    return
+
+#///////////////////////  DEFFENDER SLOT 5
+label AI_Bhv_D_S5_Chg_SkillTtc:
+    $ BS_TtcRdm = renpy.random.randint(1, 5)
+    $ D_S5_Ttc = BS_TtcRdm
+    $ D_S5_ChgTtc_Count += 1
+    return
+
+#///////////////////////  DEFFENDER SLOT 6
+label AI_Bhv_D_S6_Chg_SkillTtc:
+    $ BS_TtcRdm = renpy.random.randint(1, 5)
+    $ D_S6_Ttc = BS_TtcRdm
+    $ D_S6_ChgTtc_Count += 1
+    return
