@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 13: expected statement.
+    "Battle System":
+                   ^
+
+Ren'Py Version: Ren'Py 7.0.0.196
+Mon Aug 27 14:46:12 2018

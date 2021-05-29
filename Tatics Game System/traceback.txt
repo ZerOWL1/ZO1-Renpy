@@ -1,0 +1,38 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "renpy/common/00start.rpy", line 203, in script call
+    call _load_reload_game from _call__load_reload_game_1
+  File "renpy/common/00keymap.rpy", line 446, in script
+    python hide:
+  File "renpy/common/00keymap.rpy", line 446, in <module>
+    python hide:
+  File "renpy/common/00keymap.rpy", line 456, in _execute_python_hide
+    renpy.load("_reload-2")
+AttributeError: 'StoreModule' object has no attribute 'List_Led_Slots'
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "renpy/common/00start.rpy", line 203, in script call
+    call _load_reload_game from _call__load_reload_game_1
+  File "renpy/common/00keymap.rpy", line 446, in script
+    python hide:
+  File "D:\renpy-7.0.0-sdk\renpy\ast.py", line 862, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "D:\renpy-7.0.0-sdk\renpy\python.py", line 1912, in py_exec_bytecode
+    exec bytecode in globals, locals
+  File "renpy/common/00keymap.rpy", line 446, in <module>
+    python hide:
+  File "renpy/common/00keymap.rpy", line 456, in _execute_python_hide
+    renpy.load("_reload-2")
+  File "D:\renpy-7.0.0-sdk\renpy\loadsave.py", line 727, in load
+    roots, log = loads(location.load(filename))
+  File "D:\renpy-7.0.0-sdk\renpy\loadsave.py", line 60, in loads
+    return cPickle.loads(s)
+AttributeError: 'StoreModule' object has no attribute 'List_Led_Slots'
+
+Windows-7-6.1.7601-SP1
+Ren'Py 7.0.0.196
+Test Project 1.0
+Mon Aug 27 14:52:54 2018
