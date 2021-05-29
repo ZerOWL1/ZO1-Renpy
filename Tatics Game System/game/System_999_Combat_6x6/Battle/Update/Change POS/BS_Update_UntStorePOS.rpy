@@ -1,0 +1,639 @@
+﻿
+#///////////////////////  ATTACKER SLOT 1
+#=====================================================
+label BS_Update_A_S1_UntStorePOS:
+#=====================================================
+    $ A_S1_UntStorePOS = [
+#-------------------------------
+    A_S1_Ctl_Type,
+    A_S1_Reg_No,
+#-------------------------------
+    A_S1_Name,
+    A_S1_Level,
+    A_S1_Exp,
+    A_S1_MHP,
+    A_S1_HP,
+    A_S1_Atk,
+    A_S1_Mag,
+    A_S1_Def,
+    A_S1_Res,
+    A_S1_Spd, 
+    A_S1_Cls,
+    A_S1_Ttc,
+    A_S1_Ocu,
+    A_S1_CanAct,
+#-------------------------------
+    A_S1_Mor,
+    A_S1_Fgt,
+    A_S1_Stn,
+#-------------------------------
+    A_S1_AtkType,
+    A_S1_DefType,
+#-------------------------------
+    A_S1_CrtChc,
+    A_S1_EvdChc,
+    A_S1_DuelChc,
+    A_S1_DuelEvd,
+#-------------------------------
+    A_S1_AtkIcr,
+    A_S1_AtkDcr,
+    A_S1_AtkChg,
+    A_S1_DefIcr,
+    A_S1_DefDcr,
+    A_S1_DefChg,
+    A_S1_MorIcr,
+    A_S1_MorDcr,
+    A_S1_MorChg,
+    A_S1_Kill,
+    A_S1_Killed,
+    A_S1_ChgTtc_Count,
+    A_S1_ChgPos_Count]
+#-------------------------------
+    return
+
+#///////////////////////  ATTACKER SLOT 2
+#=====================================================
+label BS_Update_A_S2_UntStorePOS:
+#=====================================================
+#-------------------------------
+    $ A_S2_UntStorePOS = [
+#-------------------------------
+    A_S2_Ctl_Type,
+    A_S2_Reg_No,
+#-------------------------------
+    A_S2_Name,
+    A_S2_Level,
+    A_S2_Exp,
+    A_S2_MHP,
+    A_S2_HP,
+    A_S2_Atk,
+    A_S2_Mag,
+    A_S2_Def,
+    A_S2_Res,
+    A_S2_Spd, 
+    A_S2_Cls,
+    A_S2_Ttc,
+    A_S2_Ocu,
+    A_S2_CanAct,
+#-------------------------------
+    A_S2_Mor,
+    A_S2_Fgt,
+    A_S2_Stn,
+#-------------------------------
+    A_S2_AtkType,
+    A_S2_DefType,
+#-------------------------------
+    A_S2_CrtChc,
+    A_S2_EvdChc,
+    A_S2_DuelChc,
+    A_S2_DuelEvd,
+#-------------------------------
+    A_S2_AtkIcr,
+    A_S2_AtkDcr,
+    A_S2_AtkChg,
+    A_S2_DefIcr,
+    A_S2_DefDcr,
+    A_S2_DefChg,
+    A_S2_MorIcr,
+    A_S2_MorDcr,
+    A_S2_MorChg,
+    A_S2_Kill,
+    A_S2_Killed,
+    A_S2_ChgTtc_Count,
+    A_S2_ChgPos_Count]
+#-------------------------------
+    return
+
+#///////////////////////  ATTACKER SLOT 3
+#=====================================================
+label BS_Update_A_S3_UntStorePOS:
+#=====================================================
+#-------------------------------
+    $ A_S3_UntStorePOS = [
+#-------------------------------
+    A_S3_Ctl_Type,
+    A_S3_Reg_No,
+#-------------------------------
+    A_S3_Name,
+    A_S3_Level,
+    A_S3_Exp,
+    A_S3_MHP,
+    A_S3_HP,
+    A_S3_Atk,
+    A_S3_Mag,
+    A_S3_Def,
+    A_S3_Res,
+    A_S3_Spd, 
+    A_S3_Cls,
+    A_S3_Ttc,
+    A_S3_Ocu,
+    A_S3_CanAct,
+#-------------------------------
+    A_S3_Mor,
+    A_S3_Fgt,
+    A_S3_Stn,
+#-------------------------------
+    A_S3_AtkType,
+    A_S3_DefType,
+#-------------------------------
+    A_S3_CrtChc,
+    A_S3_EvdChc,
+    A_S3_DuelChc,
+    A_S3_DuelEvd,
+#-------------------------------
+    A_S3_AtkIcr,
+    A_S3_AtkDcr,
+    A_S3_AtkChg,
+    A_S3_DefIcr,
+    A_S3_DefDcr,
+    A_S3_DefChg,
+    A_S3_MorIcr,
+    A_S3_MorDcr,
+    A_S3_MorChg,
+    A_S3_Kill,
+    A_S3_Killed,
+    A_S3_ChgTtc_Count,
+    A_S3_ChgPos_Count]
+#-------------------------------
+    return
+
+#///////////////////////  ATTACKER SLOT 1
+#=====================================================
+label BS_Update_A_S4_UntStorePOS:
+#=====================================================
+#-------------------------------
+    $ A_S4_UntStorePOS = [
+#-------------------------------
+    A_S4_Ctl_Type,
+    A_S4_Reg_No,
+#-------------------------------
+    A_S4_Name,
+    A_S4_Level,
+    A_S4_Exp,
+    A_S4_MHP,
+    A_S4_HP,
+    A_S4_Atk,
+    A_S4_Mag,
+    A_S4_Def,
+    A_S4_Res,
+    A_S4_Spd, 
+    A_S4_Cls,
+    A_S4_Ttc,
+    A_S4_Ocu,
+    A_S4_CanAct,
+#-------------------------------
+    A_S4_Mor,
+    A_S4_Fgt,
+    A_S4_Stn,
+#-------------------------------
+    A_S4_AtkType,
+    A_S4_DefType,
+#-------------------------------
+    A_S4_CrtChc,
+    A_S4_EvdChc,
+    A_S4_DuelChc,
+    A_S4_DuelEvd,
+#-------------------------------
+    A_S4_AtkIcr,
+    A_S4_AtkDcr,
+    A_S4_AtkChg,
+    A_S4_DefIcr,
+    A_S4_DefDcr,
+    A_S4_DefChg,
+    A_S4_MorIcr,
+    A_S4_MorDcr,
+    A_S4_MorChg,
+    A_S4_Kill,
+    A_S4_Killed,
+    A_S4_ChgTtc_Count,
+    A_S4_ChgPos_Count]
+#-------------------------------
+    return
+
+#///////////////////////  ATTACKER SLOT 1
+#=====================================================
+label BS_Update_A_S5_UntStorePOS:
+#=====================================================
+#-------------------------------
+    $ A_S5_UntStorePOS = [
+#-------------------------------
+    A_S5_Ctl_Type,
+    A_S5_Reg_No,
+#-------------------------------
+    A_S5_Name,
+    A_S5_Level,
+    A_S5_Exp,
+    A_S5_MHP,
+    A_S5_HP,
+    A_S5_Atk,
+    A_S5_Mag,
+    A_S5_Def,
+    A_S5_Res,
+    A_S5_Spd, 
+    A_S5_Cls,
+    A_S5_Ttc,
+    A_S5_Ocu,
+    A_S5_CanAct,
+#-------------------------------
+    A_S5_Mor,
+    A_S5_Fgt,
+    A_S5_Stn,
+#-------------------------------
+    A_S5_AtkType,
+    A_S5_DefType,
+#-------------------------------
+    A_S5_CrtChc,
+    A_S5_EvdChc,
+    A_S5_DuelChc,
+    A_S5_DuelEvd,
+#-------------------------------
+    A_S5_AtkIcr,
+    A_S5_AtkDcr,
+    A_S5_AtkChg,
+    A_S5_DefIcr,
+    A_S5_DefDcr,
+    A_S5_DefChg,
+    A_S5_MorIcr,
+    A_S5_MorDcr,
+    A_S5_MorChg,
+    A_S5_Kill,
+    A_S5_Killed,
+    A_S5_ChgTtc_Count,
+    A_S5_ChgPos_Count]
+#-------------------------------
+    return
+
+#///////////////////////  ATTACKER SLOT 1
+#=====================================================
+label BS_Update_A_S6_UntStorePOS:
+#=====================================================
+#-------------------------------
+    $ A_S6_UntStorePOS = [
+#-------------------------------
+    A_S6_Ctl_Type,
+    A_S6_Reg_No,
+#-------------------------------
+    A_S6_Name,
+    A_S6_Level,
+    A_S6_Exp,
+    A_S6_MHP,
+    A_S6_HP,
+    A_S6_Atk,
+    A_S6_Mag,
+    A_S6_Def,
+    A_S6_Res,
+    A_S6_Spd, 
+    A_S6_Cls,
+    A_S6_Ttc,
+    A_S6_Ocu,
+    A_S6_CanAct,
+#-------------------------------
+    A_S6_Mor,
+    A_S6_Fgt,
+    A_S6_Stn,
+#-------------------------------
+    A_S6_AtkType,
+    A_S6_DefType,
+#-------------------------------
+    A_S6_CrtChc,
+    A_S6_EvdChc,
+    A_S6_DuelChc,
+    A_S6_DuelEvd,
+#-------------------------------
+    A_S6_AtkIcr,
+    A_S6_AtkDcr,
+    A_S6_AtkChg,
+    A_S6_DefIcr,
+    A_S6_DefDcr,
+    A_S6_DefChg,
+    A_S6_MorIcr,
+    A_S6_MorDcr,
+    A_S6_MorChg,
+    A_S6_Kill,
+    A_S6_Killed,
+    A_S6_ChgTtc_Count,
+    A_S6_ChgPos_Count]
+#-------------------------------
+    return
+
+#================================================================
+#================================================================
+#================================================================    
+#================================================================  
+
+#///////////////////////  DEFFENDER SLOT 1
+#=====================================================
+label BS_Update_D_S1_UntStorePOS:
+#=====================================================
+    $ D_S1_UntStorePOS = [
+#-------------------------------
+    D_S1_Ctl_Type,
+    D_S1_Reg_No,
+#-------------------------------
+    D_S1_Name,
+    D_S1_Level,
+    D_S1_Exp,
+    D_S1_MHP,
+    D_S1_HP,
+    D_S1_Atk,
+    D_S1_Mag,
+    D_S1_Def,
+    D_S1_Res,
+    D_S1_Spd, 
+    D_S1_Cls,
+    D_S1_Ttc,
+    D_S1_Ocu,
+    D_S1_CanAct,
+#-------------------------------
+    D_S1_Mor,
+    D_S1_Fgt,
+    D_S1_Stn,
+#-------------------------------
+    D_S1_AtkType,
+    D_S1_DefType,
+#-------------------------------
+    D_S1_CrtChc,
+    D_S1_EvdChc,
+    D_S1_DuelChc,
+    D_S1_DuelEvd,
+#-------------------------------
+    D_S1_AtkIcr,
+    D_S1_AtkDcr,
+    D_S1_AtkChg,
+    D_S1_DefIcr,
+    D_S1_DefDcr,
+    D_S1_DefChg,
+    D_S1_MorIcr,
+    D_S1_MorDcr,
+    D_S1_MorChg,
+    D_S1_Kill,
+    D_S1_Killed,
+    D_S1_ChgTtc_Count,
+    D_S1_ChgPos_Count]
+#-------------------------------
+    return
+
+#///////////////////////  DEFFENDER SLOT 2
+#=====================================================
+label BS_Update_D_S2_UntStorePOS:
+#=====================================================
+#-------------------------------
+    $ D_S2_UntStorePOS = [
+#-------------------------------
+    D_S2_Ctl_Type,
+    D_S2_Reg_No,
+#-------------------------------
+    D_S2_Name,
+    D_S2_Level,
+    D_S2_Exp,
+    D_S2_MHP,
+    D_S2_HP,
+    D_S2_Atk,
+    D_S2_Mag,
+    D_S2_Def,
+    D_S2_Res,
+    D_S2_Spd, 
+    D_S2_Cls,
+    D_S2_Ttc,
+    D_S2_Ocu,
+    D_S2_CanAct,
+#-------------------------------
+    D_S2_Mor,
+    D_S2_Fgt,
+    D_S2_Stn,
+#-------------------------------
+    D_S2_AtkType,
+    D_S2_DefType,
+#-------------------------------
+    D_S2_CrtChc,
+    D_S2_EvdChc,
+    D_S2_DuelChc,
+    D_S2_DuelEvd,
+#-------------------------------
+    D_S2_AtkIcr,
+    D_S2_AtkDcr,
+    D_S2_AtkChg,
+    D_S2_DefIcr,
+    D_S2_DefDcr,
+    D_S2_DefChg,
+    D_S2_MorIcr,
+    D_S2_MorDcr,
+    D_S2_MorChg,
+    D_S2_Kill,
+    D_S2_Killed,
+    D_S2_ChgTtc_Count,
+    D_S2_ChgPos_Count]
+#-------------------------------
+    return
+
+#///////////////////////  DEFFENDER SLOT 3
+#=====================================================
+label BS_Update_D_S3_UntStorePOS:
+#=====================================================
+#-------------------------------
+    $ D_S3_UntStorePOS = [
+#-------------------------------
+    D_S3_Ctl_Type,
+    D_S3_Reg_No,
+#-------------------------------
+    D_S3_Name,
+    D_S3_Level,
+    D_S3_Exp,
+    D_S3_MHP,
+    D_S3_HP,
+    D_S3_Atk,
+    D_S3_Mag,
+    D_S3_Def,
+    D_S3_Res,
+    D_S3_Spd, 
+    D_S3_Cls,
+    D_S3_Ttc,
+    D_S3_Ocu,
+    D_S3_CanAct,
+#-------------------------------
+    D_S3_Mor,
+    D_S3_Fgt,
+    D_S3_Stn,
+#-------------------------------
+    D_S3_AtkType,
+    D_S3_DefType,
+#-------------------------------
+    D_S3_CrtChc,
+    D_S3_EvdChc,
+    D_S3_DuelChc,
+    D_S3_DuelEvd,
+#-------------------------------
+    D_S3_AtkIcr,
+    D_S3_AtkDcr,
+    D_S3_AtkChg,
+    D_S3_DefIcr,
+    D_S3_DefDcr,
+    D_S3_DefChg,
+    D_S3_MorIcr,
+    D_S3_MorDcr,
+    D_S3_MorChg,
+    D_S3_Kill,
+    D_S3_Killed,
+    D_S3_ChgTtc_Count,
+    D_S3_ChgPos_Count]
+#-------------------------------
+    return
+
+#///////////////////////  DEFFENDER SLOT 1
+#=====================================================
+label BS_Update_D_S4_UntStorePOS:
+#=====================================================
+#-------------------------------
+    $ D_S4_UntStorePOS = [
+#-------------------------------
+    D_S4_Ctl_Type,
+    D_S4_Reg_No,
+#-------------------------------
+    D_S4_Name,
+    D_S4_Level,
+    D_S4_Exp,
+    D_S4_MHP,
+    D_S4_HP,
+    D_S4_Atk,
+    D_S4_Mag,
+    D_S4_Def,
+    D_S4_Res,
+    D_S4_Spd, 
+    D_S4_Cls,
+    D_S4_Ttc,
+    D_S4_Ocu,
+    D_S4_CanAct,
+#-------------------------------
+    D_S4_Mor,
+    D_S4_Fgt,
+    D_S4_Stn,
+#-------------------------------
+    D_S4_AtkType,
+    D_S4_DefType,
+#-------------------------------
+    D_S4_CrtChc,
+    D_S4_EvdChc,
+    D_S4_DuelChc,
+    D_S4_DuelEvd,
+#-------------------------------
+    D_S4_AtkIcr,
+    D_S4_AtkDcr,
+    D_S4_AtkChg,
+    D_S4_DefIcr,
+    D_S4_DefDcr,
+    D_S4_DefChg,
+    D_S4_MorIcr,
+    D_S4_MorDcr,
+    D_S4_MorChg,
+    D_S4_Kill,
+    D_S4_Killed,
+    D_S4_ChgTtc_Count,
+    D_S4_ChgPos_Count]
+#-------------------------------
+    return
+
+#///////////////////////  DEFFENDER SLOT 1
+#=====================================================
+label BS_Update_D_S5_UntStorePOS:
+#=====================================================
+#-------------------------------
+    $ D_S5_UntStorePOS = [
+#-------------------------------
+    D_S5_Ctl_Type,
+    D_S5_Reg_No,
+#-------------------------------
+    D_S5_Name,
+    D_S5_Level,
+    D_S5_Exp,
+    D_S5_MHP,
+    D_S5_HP,
+    D_S5_Atk,
+    D_S5_Mag,
+    D_S5_Def,
+    D_S5_Res,
+    D_S5_Spd, 
+    D_S5_Cls,
+    D_S5_Ttc,
+    D_S5_Ocu,
+    D_S5_CanAct,
+#-------------------------------
+    D_S5_Mor,
+    D_S5_Fgt,
+    D_S5_Stn,
+#-------------------------------
+    D_S5_AtkType,
+    D_S5_DefType,
+#-------------------------------
+    D_S5_CrtChc,
+    D_S5_EvdChc,
+    D_S5_DuelChc,
+    D_S5_DuelEvd,
+#-------------------------------
+    D_S5_AtkIcr,
+    D_S5_AtkDcr,
+    D_S5_AtkChg,
+    D_S5_DefIcr,
+    D_S5_DefDcr,
+    D_S5_DefChg,
+    D_S5_MorIcr,
+    D_S5_MorDcr,
+    D_S5_MorChg,
+    D_S5_Kill,
+    D_S5_Killed,
+    D_S5_ChgTtc_Count,
+    D_S5_ChgPos_Count]
+#-------------------------------
+    return
+
+#///////////////////////  DEFFENDER SLOT 1
+#=====================================================
+label BS_Update_D_S6_UntStorePOS:
+#=====================================================
+#-------------------------------
+    $ D_S6_UntStorePOS = [
+#-------------------------------
+    D_S6_Ctl_Type,
+    D_S6_Reg_No,
+#-------------------------------
+    D_S6_Name,
+    D_S6_Level,
+    D_S6_Exp,
+    D_S6_MHP,
+    D_S6_HP,
+    D_S6_Atk,
+    D_S6_Mag,
+    D_S6_Def,
+    D_S6_Res,
+    D_S6_Spd, 
+    D_S6_Cls,
+    D_S6_Ttc,
+    D_S6_Ocu,
+    D_S6_CanAct,
+#-------------------------------
+    D_S6_Mor,
+    D_S6_Fgt,
+    D_S6_Stn,
+#-------------------------------
+    D_S6_AtkType,
+    D_S6_DefType,
+#-------------------------------
+    D_S6_CrtChc,
+    D_S6_EvdChc,
+    D_S6_DuelChc,
+    D_S6_DuelEvd,
+#-------------------------------
+    D_S6_AtkIcr,
+    D_S6_AtkDcr,
+    D_S6_AtkChg,
+    D_S6_DefIcr,
+    D_S6_DefDcr,
+    D_S6_DefChg,
+    D_S6_MorIcr,
+    D_S6_MorDcr,
+    D_S6_MorChg,
+    D_S6_Kill,
+    D_S6_Killed,
+    D_S6_ChgTtc_Count,
+    D_S6_ChgPos_Count]
+#-------------------------------
+    return
